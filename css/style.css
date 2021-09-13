@@ -1,5 +1,16 @@
 body {
-  margin: 0;
+  margin: 0 auto;
+}
+
+header {
+  background-color: lightskyblue;
+  background-image: url(img/pattern.png);
+  background-size: contain;
+}
+
+.logo {
+  width: 150px;
+  height: 70px;
 }
 
 .container {
