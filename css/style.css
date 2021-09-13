@@ -4,8 +4,14 @@ body {
 
 .container {
   width: 50%;
+  margin: 0 auto;
 }
 
-header {
-  background-color: lightsteelblue;
+.tim {
+  width: 300px;
+  height: 250px;
+}
+
+.list {
+  padding: 15px;
 }
